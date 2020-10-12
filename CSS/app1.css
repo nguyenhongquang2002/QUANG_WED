@@ -1,0 +1,27 @@
+body{
+    background-color:#f2f2f2;
+    background-repeat: no-repeat;/* làm cho ảnh không lặp lại*/
+    /*background-repeat: repeat-x;/* làm cho ảnh lặp lại dọc*/
+    /*background-repeat: repeat-y;/* làm cho ảnh lặp lại ngang*/
+    background-size: cover;/* kéo ảnh full ra màn hình*/
+}
+h4{
+    color:red; /* rgb(100,600,50) -- 00 --FF #fffffff*/
+    font-size: 14px;
+    line-height: 30px;
+}
+h6{
+    color: red;
+}
+a{
+    text-decoration: none;
+    color: red;
+}
+div p{
+    width:300px;
+    height: auto;
+    margin: -2% 5% 0 88%;
+    padding: 5%;
+    float: right;
+
+}
