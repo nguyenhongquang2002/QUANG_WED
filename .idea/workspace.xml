@@ -3,20 +3,18 @@
   <component name="ChangeListManager">
     <list default="true" id="aed466b5-892a-4379-9eb0-be289149815f" name="Default Changelist" comment="Bài Tập Về Nhà 2">
       <change afterPath="$PROJECT_DIR$/CSS/app.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/app1.css" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/home2.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/home3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homelab1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imgs/anhthe.jpg" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/imgs/cây cối.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imgs/haia.jpg" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/imgs/jack ma.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/index2" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/home.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/homelab2.html" beforeDir="false" afterPath="$PROJECT_DIR$/homelab2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index2.php" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/media/anh ba.mp4" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/media/ngoc bac ninh.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nhabaoviec.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xinhdep.php" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -91,7 +89,7 @@
       <workItem from="1602162038553" duration="3538000" />
       <workItem from="1602220269317" duration="2345000" />
       <workItem from="1602292767032" duration="11318000" />
-      <workItem from="1602397660209" duration="22256000" />
+      <workItem from="1602397660209" duration="23758000" />
     </task>
     <task id="LOCAL-00001" summary="hello ban quang">
       <created>1602131186914</created>
@@ -142,7 +140,28 @@
       <option name="project" value="LOCAL" />
       <updated>1602493897935</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Bài Tập Về Nhà 2">
+      <created>1602494112178</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1602494112178</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Bài Tập Về Nhà 2">
+      <created>1602494237797</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1602494237797</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Bài Tập Về Nhà 2">
+      <created>1602494755342</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1602494755342</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -160,14 +179,18 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="542" y="214" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1602491451811" />
-    <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1602140741600">
+    <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1602495412060">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1602140741600" />
-    <state x="461" y="0" width="754" height="824" key="CommitChangelistDialog2" timestamp="1602493896814">
+    <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1602495412060" />
+    <state x="381" y="50" width="873" height="707" key="CommitChangelistDialog2" timestamp="1602495196100">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="461" y="0" width="754" height="824" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1602493896814" />
+    <state x="381" y="50" width="873" height="707" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1602495196100" />
+    <state x="221" y="92" width="1242" height="761" key="DiffContextDialog" timestamp="1602495194805">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="221" y="92" width="1242" height="761" key="DiffContextDialog/0.0.1536.824@0.0.1536.824" timestamp="1602495194805" />
     <state x="612" y="115" key="RollbackChangesDialog" timestamp="1602146597835">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -176,10 +199,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="277" y="57" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1602125895240" />
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1602493900556">
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1602494760368">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1602493900556" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1602494760368" />
     <state x="425" y="187" key="run.anything.popup" timestamp="1602492510401">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
