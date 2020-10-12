@@ -1,0 +1,32 @@
+body{
+    background-color:#f2f2f2;
+    background-image: url("../imgs/cây cối.jpg");
+    background-repeat: no-repeat;/* làm cho ảnh không lặp lại*/
+    /*background-repeat: repeat-x;/* làm cho ảnh lặp lại dọc*/
+    /*background-repeat: repeat-y;/* làm cho ảnh lặp lại ngang*/
+    background-size: cover;/* kéo ảnh full ra màn hình*/
+}
+h1 {
+    color: #608802; /* rgb(100,600,50) -- 00 --FF #fffffff*/
+    font-size: 50px;
+    line-height: 60px;
+}
+p{
+
+    color: #908802; /* rgb(100,600,50) -- 00 --FF #fffffff ( màu Chữ )*/
+    font-size: 14px;
+    line-height: 1.25;
+    font-family: "sans-serif";
+    font-weight: normal;/* thin light normal medium seml-bold extro-bold*/
+    text-align: left;/* left center căn trái - right justify căn phải */
+    text-decoration: underline;/* gạch chân*/
+    /*text-transform: uppercase;/* chữ cái in hoa*/
+    /*text-transform: lowercase;/* in thường */
+    /*text-transform: capitalize;/* viết hoa đầu tiên của chữ */
+    /*text-decoration:line-through;/* gạch ngang*/
+    background-color:;/* màu nền vùng chữ*/
+}
+a{
+    text-decoration: none;
+    color: red;
+}
