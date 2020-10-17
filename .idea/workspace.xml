@@ -1,27 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="aed466b5-892a-4379-9eb0-be289149815f" name="Default Changelist" comment="Bài Tập Về Nhà 2">
+    <list default="true" id="aed466b5-892a-4379-9eb0-be289149815f" name="Default Changelist" comment="las 3">
       <change afterPath="$PROJECT_DIR$/CSS/boxmodel.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/home2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/home3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/home6.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/nhap1.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/thoitrang.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home11.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/home7.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgs/A04.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgs/adi1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgs/adi2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgs/adi3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgs/adi4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgs/adi5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgs/adi6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgs/adi7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgs/adi8.jpg" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/imgs/anhbia.png" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/imgs/anhnen.jpg" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/imgs/bilbill.jpg" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/imgs/quang1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imgs/quangcuon.jpg" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/imgs/quangmoc.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index3.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/boxmodel1.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/boxmodel2.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/home01.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/home1.html" beforeDir="false" afterPath="$PROJECT_DIR$/home1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/home4.html" beforeDir="false" afterPath="$PROJECT_DIR$/home4.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/home4.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/home5.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/home8.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/homelab1.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/homelab2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index01.php" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index1.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index10.php" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index2.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index3.php" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index5.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index8.php" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/nhabaoviec.html" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -100,7 +116,11 @@
       <workItem from="1602397660209" duration="26765000" />
       <workItem from="1602509528975" duration="2756000" />
       <workItem from="1602552519461" duration="12466000" />
-      <workItem from="1602647320883" duration="8215000" />
+      <workItem from="1602647320883" duration="16518000" />
+      <workItem from="1602692327561" duration="291000" />
+      <workItem from="1602725715396" duration="810000" />
+      <workItem from="1602726548302" duration="8762000" />
+      <workItem from="1602817235738" duration="14601000" />
     </task>
     <task id="LOCAL-00001" summary="hello ban quang">
       <created>1602131186914</created>
@@ -221,7 +241,56 @@
       <option name="project" value="LOCAL" />
       <updated>1602666332113</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="Bài Tập Về Nhà 2">
+      <created>1602666519175</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1602666519175</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Bài Tập Về Nhà 2">
+      <created>1602666748318</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1602666748318</updated>
+    </task>
+    <task id="LOCAL-00020" summary="las 3">
+      <created>1602667179376</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1602667179376</updated>
+    </task>
+    <task id="LOCAL-00021" summary="bài 3">
+      <created>1602667565672</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1602667565672</updated>
+    </task>
+    <task id="LOCAL-00022" summary="nhà 3">
+      <created>1602668381894</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1602668381894</updated>
+    </task>
+    <task id="LOCAL-00023" summary="bài ba">
+      <created>1602669083166</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1602669083166</updated>
+    </task>
+    <task id="LOCAL-00024" summary="las 3">
+      <created>1602727259761</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1602727259761</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -233,48 +302,57 @@
     <MESSAGE value="Bài Tập Về Nhà 1 Ạ" />
     <MESSAGE value="bài làm 2" />
     <MESSAGE value="bài tập thứ 2" />
-    <MESSAGE value="Bài Tập Về Nhà 2" />
     <MESSAGE value="Bài Tâp 2" />
     <MESSAGE value="Bài Tập Về Nhà las 3" />
-    <option name="LAST_COMMIT_MESSAGE" value="Bài Tập Về Nhà las 3" />
+    <MESSAGE value="Bài Tập Về Nhà 2" />
+    <MESSAGE value="bài 3" />
+    <MESSAGE value="khu 3" />
+    <MESSAGE value="nhà 3" />
+    <MESSAGE value="bài ba" />
+    <MESSAGE value="las 3" />
+    <option name="LAST_COMMIT_MESSAGE" value="las 3" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="542" y="214" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1602558235231">
+    <state x="542" y="214" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1602668108052">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="542" y="214" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1602558235231" />
-    <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1602559153856">
+    <state x="542" y="214" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1602668108052" />
+    <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1602827513670">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1602559153856" />
-    <state x="381" y="50" width="873" height="707" key="CommitChangelistDialog2" timestamp="1602666330740">
+    <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1602827513670" />
+    <state x="381" y="50" width="873" height="707" key="CommitChangelistDialog2" timestamp="1602727258372">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="381" y="50" width="873" height="707" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1602666330740" />
-    <state x="221" y="92" width="1242" height="761" key="DiffContextDialog" timestamp="1602495194805">
+    <state x="381" y="50" width="873" height="707" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1602727258372" />
+    <state x="221" y="63" width="1242" height="761" key="DiffContextDialog" timestamp="1602668171673">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="221" y="92" width="1242" height="761" key="DiffContextDialog/0.0.1536.824@0.0.1536.824" timestamp="1602495194805" />
+    <state x="221" y="63" width="1242" height="761" key="DiffContextDialog/0.0.1536.824@0.0.1536.824" timestamp="1602668171673" />
     <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1602557424444">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1602557424444" />
-    <state x="612" y="115" key="RollbackChangesDialog" timestamp="1602146597835">
+    <state x="612" y="115" key="RollbackChangesDialog" timestamp="1602666608710">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="612" y="115" key="RollbackChangesDialog/0.0.1536.824@0.0.1536.824" timestamp="1602146597835" />
+    <state x="612" y="115" key="RollbackChangesDialog/0.0.1536.824@0.0.1536.824" timestamp="1602666608710" />
     <state x="277" y="57" key="SettingsEditor" timestamp="1602125895240">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="277" y="57" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1602125895240" />
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1602666335559">
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1602727264820">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1602666335559" />
-    <state x="425" y="187" key="run.anything.popup" timestamp="1602648569441">
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1602727264820" />
+    <state x="586" y="326" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1602667053380">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="425" y="187" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1602648569441" />
+    <state x="586" y="326" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824@0.0.1536.824" timestamp="1602667053380" />
+    <state x="425" y="187" key="run.anything.popup" timestamp="1602822248530">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="425" y="187" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1602822248530" />
     <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1602408175156">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
