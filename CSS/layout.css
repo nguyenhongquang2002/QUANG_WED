@@ -1,0 +1,141 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: #f2f2f2;
+    font-size: 14px;
+    line-height: 1.25;
+    font-weight: 400;
+    /* 100-thin 300-light 400-normal 500-medium 600-semi-bold 700-bold 800-extra-bold 900-black */
+    font-family: 'Roboto', sans-serif;
+    color: #232323;
+}
+img{
+    max-width: 100%;
+}
+.section{
+    float: left;
+    width: 100%;
+}
+.container{
+    width: 1200px;
+    margin: 0 auto;
+    float: none;
+}
+.content{
+    float: left;
+    width: 75%;
+    padding-right: 15px;
+}
+.sidebar{
+    float: left;
+    width: 25%;
+    padding-left: 15px;
+}
+/* xong layout */
+.header{
+    background-color: #ffffff;
+    border-bottom: 1px solid #f2f2f2;
+    padding: 20px 0;
+}
+.logo{
+    float: left;
+    width: 30%;
+    color: black;
+}
+.top-links{
+    float: right;
+    width: 30%;
+}
+.top-links li{
+    float: right;
+    list-style: none;
+    margin-left: 15px;
+}
+.nav{
+    background-color: #ffffff;
+    padding: 20px 0;
+}
+.menu li{
+    float: left;
+    list-style: none;
+    margin-right: 20px;
+}
+.menu .last-item{
+    float: right;
+    margin-right: 0;
+}
+.main{
+    padding-top: 30px;
+}
+.body-content{
+    background-color: #ffffff;
+    padding: 40px;
+    float: left;
+    width: 100%;
+}
+.block{
+    background-color: #ffffff;
+    padding: 30px;
+    margin-bottom: 30px;
+}
+.black-block{
+    background-color: #2d2828;
+    color: white;
+    height: 315px;
+}
+u{
+    color: red;
+}
+img{
+    margin: 15px;
+}
+.header1{
+    text-align: left;
+    background-color: white;
+    color: #b8c1ca;
+    height: 40px;
+    width: 225px;
+    margin: 0px;
+    font-size: 12px;
+    line-height: 40px;
+    border: solid 1px lightgray;
+    text-indent: 10px;
+}
+.header2{
+    text-align: center;
+    background-color: red;
+    height: 40px;
+    width: 225px;
+    margin: 0px;
+    font-size: 12px;
+    line-height: 40px;
+    border: solid 0px lightgray;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+h1{
+    font-size: 30px;
+}
+span{
+    margin: 5px;
+    padding: 5px;
+}
+.header3{
+    text-align: left;
+    background-color: white;
+    color: #aaaaaa;
+    height: 80px;
+    width: 285px;
+    margin: 0px;
+    font-size: 15px;
+    line-height: 82px;
+    text-indent: 20px;
+    border: 1px ridge #f8f2f2;
+p{
+    size: auto;
+}
