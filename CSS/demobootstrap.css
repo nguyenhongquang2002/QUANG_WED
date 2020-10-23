@@ -1,0 +1,52 @@
+.cart-icon{
+    font-size: 150px;
+    color: green;
+}
+.form-group{
+    font-size: 15px;
+    color: black;
+    padding: 5px 10px;
+    width: 470px;
+}
+input[name="first name"]{
+    font-size: 15px;
+    color: black;
+    padding: 5px 10px;
+    width: 235px;
+    /*padding-right: 5px;*/
+    float: left;
+    margin-right: 15px;
+}
+input[name="last name"]{
+    font-size: 15px;
+    color: black;
+    padding: 5px 10px;
+    width: 200px;
+}
+.section{
+    width: 500px;
+    height: 300px;
+    margin: 600px;
+    padding-top: 20px;
+    background-image:
+}
+.month{
+    width: 135px;
+    float: left;
+    margin-right: 10px;
+}
+.day{
+    width: 135px;
+    float: left;
+    margin-right: 10px;
+}
+.year {
+    width: 160px;
+    float: left;
+}
+.btn-success{
+    margin-left: 177px;
+}
+body{
+    background-color: #2aabd2;
+}
